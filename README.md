@@ -50,10 +50,10 @@
 
 ## 하드웨어 구성
 
-- **Arduino** (Uno/Nano 등)
+- **Arduino** (Uno)
 - **LED 3개** (빨강, 노랑, 초록) + 저항
 - **Potentiometer** (밝기 조절)
-- **버튼 3개** (PCINT 예제용)
+- **버튼 3개** (모드 변환용)
 - 브레드보드, 점퍼 케이블 등
 
 | 핀  | 연결              |
@@ -72,15 +72,15 @@
 
 1. **Arduino 측**  
    - `ArduinoTrafficLight.ino` (TaskScheduler, PinChangeInterrupt 사용)  
-   - 빌드/업로드: Arduino IDE or VSCode Arduino Extension
+   - 빌드/업로드: VSCode platformio Extension
 
 2. **p5.js 측**  
    - `index.html`: 로드할 스크립트(p5.js, ml5.min.js, sketch.js 등)  
-   - `sketch.js`: 제스처 인식, Web Serial, 슬라이더 UI  
+   - `sketch.js`: 제스처 인식, Web Serial, 슬라이더 UI, 밝기와 신호 인디케이터
    - 의존 라이브러리: [p5.js 1.4.0+](https://p5js.org/), [ml5.js(handpose)](https://learn.ml5js.org/#/reference/handpose)
 
 3. **통신**  
-   - Web Serial API (Chrome/Edge 최신 버전)  
+   - Web Serial API  
    - `9600 baudRate` (아두이노에서 Serial.begin(9600))
 
 ---
