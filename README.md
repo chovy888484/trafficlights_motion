@@ -119,14 +119,34 @@
 
 ## 파일 구조
    ```bash
-   my-traffic-light-project/
-   ├── Arduino/
-   │   └── ArduinoTrafficLight.ino
-   ├── web/
+   trafficlights_motion/
+   ├── arduino(motion_trafficlight)/
+   │   └── include
+   │   │   └── README
+   │   └── lib
+   │   │   └── README
+   │   └── src
+   │   │   └── motion.cpp
+   │   └── test
+   │   │   └── README
+   │   platformio.ini
+   ├── images/
+   │   ├── index.html
+   │   ├── 오른손 엄지 검지 중지 새끼.png
+   │   ├── 오른손 엄지 검지 중지.png
+   │   ├── 오른손 엄지 검지.png
+   │   ├── 오른손 엄지.png
+   │   ├── 왼손 다 핌.png
+   │   ├── 왼손 엄지 검지.png
+   │   ├── 왼손 엄지 새끼.png
+   │   ├── 왼손 엄지 약지 새끼.png
+   │   ├── 왼손 엄지.png
+   │   ├── 왼손 중지 굽힘.png
+   │   ├── 하드웨어 사진.png
+   ├── p5_motion
    │   ├── index.html
    │   ├── sketch.js
-   │   ├── p5.min.js
-   │   └── ml5.min.js
+   │   ├── style.css
    ├── README.md
    └── LICENSE
 
