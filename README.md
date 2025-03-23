@@ -84,7 +84,8 @@
 | 10  | 버튼 3 (Toggle)   |
 
 
-<img src="images/왼손 중지 굽힘.png"/>
+<img src="images/856D966A-9938-4297-B886-14F94831BE54.jpeg"/>
+<img src="images/856D966A-9938-4297-B886-14F94831BE54.jpeg"/>
 ---
 
 ## 소프트웨어 구성
