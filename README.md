@@ -131,7 +131,7 @@
    │   │   └── README
    │   platformio.ini
    ├── images/
-   │   ├── index.html
+   │   ├── 856D966A-9938-4297-B886-14F94831BE54.jpeg
    │   ├── 오른손 엄지 검지 중지 새끼.png
    │   ├── 오른손 엄지 검지 중지.png
    │   ├── 오른손 엄지 검지.png
@@ -142,7 +142,7 @@
    │   ├── 왼손 엄지 약지 새끼.png
    │   ├── 왼손 엄지.png
    │   ├── 왼손 중지 굽힘.png
-   │   ├── 하드웨어 사진.png
+   │   ├── 하드웨어 사진.jpeg
    ├── p5_motion
    │   ├── index.html
    │   ├── sketch.js
