@@ -47,16 +47,16 @@
 
 | 제스처 이름 | 이미지 |
 |-------------|--------|
-| 엄지만 핀 손(normal mode) | <img src="images/오른손 엄지.png"> |
-| 엄지+검지 | <img src="images/오른손 엄지 검지.png"> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
-| 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 오른손 엄지만 핌(normal mode) | <img src="images/오른손 엄지.png"> |
+| 오른손 엄지+검지(blink mode) | <img src="images/오른손 엄지 검지.png"> |
+| 오른손 엄지+검지+중지(emergency mode) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 오른손 약지만 굽힘(off) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 엄지만 핌(red +) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 엄지+검지(red -) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 엄지+새끼(yellow +) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 엄지+약지+새끼(yellow -) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 모두 핌(green +) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 중지만 굽힘(green -) | <img src="https://example.com/thumb_index.png" width="100"/> |
 
 3. **Web Serial API**  
    - 브라우저에서 **시리얼 포트**를 선택, 아두이노와 양방향 통신  
