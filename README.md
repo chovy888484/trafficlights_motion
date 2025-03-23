@@ -45,8 +45,8 @@
 | 제스처 이름 | 이미지 |
 |-------------|--------|
 | 오른손 엄지만 핌(normal mode) | <img src="images/오른손 엄지.png"> |
-| 오른손 엄지+검지(blink mode) | <img src="images/오른손 엄지 검지.png"> |
-| 오른손 엄지+검지+중지(emergency mode) | <img src="images/오른손 엄지 검지 중지.png"/> |
+| 오른손 엄지+검지(emergency mode) | <img src="images/오른손 엄지 검지.png"> |
+| 오른손 엄지+검지+중지(blink mode) | <img src="images/오른손 엄지 검지 중지.png"/> |
 | 오른손 약지만 굽힘(off) | <img src="images/오른손 엄지 검지 중지 새끼.png"/> |
 | 왼손 엄지만 핌(red +) | <img src="images/왼손 엄지.png"/> |
 | 왼손 엄지+검지(red -) | <img src="images/왼손 엄지 검지.png"/> |
