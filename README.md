@@ -85,7 +85,7 @@
 
 
 <img src="images/856D966A-9938-4297-B886-14F94831BE54.jpeg"/>
-<img src="images/856D966A-9938-4297-B886-14F94831BE54.jpeg"/>
+<img src="IMG_0549.JPG"/>
 ---
 
 ## 소프트웨어 구성
