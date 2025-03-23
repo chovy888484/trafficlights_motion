@@ -56,7 +56,7 @@
 | 왼손 엄지+새끼(yellow +) | <img src="images/왼손 엄지 새끼.png"/> |
 | 왼손 엄지+약지+새끼(yellow -) | <img src="images/왼손 엄지 약지 새끼.png"/> |
 | 왼손 모두 핌(green +) | <img src="images/왼손 다 핌.png"/> |
-| 왼손 중지만 굽힘(green -) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 중지만 굽힘(green -) | <img src="images/왼손 중지 굽힘.png"/> |
 
 3. **Web Serial API**  
    - 브라우저에서 **시리얼 포트**를 선택, 아두이노와 양방향 통신  
