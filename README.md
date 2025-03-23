@@ -54,7 +54,7 @@
 | 왼손 엄지만 핌(red +) | <img src="images/왼손 엄지.png"/> |
 | 왼손 엄지+검지(red -) | <img src="images/왼손 엄지 검지.png"/> |
 | 왼손 엄지+새끼(yellow +) | <img src="images/왼손 엄지 새끼.png"/> |
-| 왼손 엄지+약지+새끼(yellow -) | <img src="https://example.com/thumb_index.png" width="100"/> |
+| 왼손 엄지+약지+새끼(yellow -) | <img src="images/왼손 엄지 약지 새끼.png"/> |
 | 왼손 모두 핌(green +) | <img src="https://example.com/thumb_index.png" width="100"/> |
 | 왼손 중지만 굽힘(green -) | <img src="https://example.com/thumb_index.png" width="100"/> |
 
