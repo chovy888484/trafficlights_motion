@@ -180,27 +180,6 @@ function handleLeftHandForTimeChange(hand) {
     }
   }
 
-// 주기 수정 후 아두이노 전송 + 슬라이더도 동기화
-function adjustTrafficTime(rDelta, yDelta, gDelta) {
-    // p5 쪽 변수
-    redTime   += rDelta;
-    yellowTime+= yDelta;
-    greenTime += gDelta;
-  
-    // 범위 제한
-    redTime   = constrain(redTime, 100, 5000);
-    yellowTime= constrain(yellowTime, 100, 5000);
-    greenTime = constrain(greenTime, 100, 5000);
-  
-    // 슬라이더 동기화 (슬라이더도 바뀌게)
-    redSlider.value(redTime);
-    yellowSlider.value(yellowTime);
-    greenSlider.value(greenTime);
-  
-    // 아두이노에 전송
-    sendTimeToArduino(redTime, yellowTime, greenTime);
-  }
-
   function sendTimeToArduino(r, y, g) { // 아두이노로 시간 전송 함수
     if (!writer) return;
     let data = `${r},${y},${g}\n`;
