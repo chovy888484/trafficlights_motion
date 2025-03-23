@@ -11,9 +11,7 @@
 3. [하드웨어 구성](#하드웨어-구성)
 4. [소프트웨어 구성](#소프트웨어-구성)
 5. [설치 및 실행](#설치-및-실행)
-6. [사용 방법](#사용-방법)
-7. [파일 구조](#파일-구조)
-8. [라이선스](#라이선스)
+6. [파일 구조](#파일-구조)
 
 ---
 
@@ -116,3 +114,19 @@
    # Arduino IDE 열기
    # ArduinoTrafficLight.ino 오픈
    # 보드/포트 설정 → 업로드
+
+---
+
+## 파일 구조
+
+my-traffic-light-project/
+├── Arduino/
+│   └── ArduinoTrafficLight.ino
+├── web/
+│   ├── index.html
+│   ├── sketch.js
+│   ├── p5.min.js
+│   └── ml5.min.js
+├── README.md
+└── LICENSE
+
