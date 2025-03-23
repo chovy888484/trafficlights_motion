@@ -47,7 +47,7 @@
 
 | 제스처 이름 | 이미지 |
 |-------------|--------|
-| 엄지만 핀 손 | <img src="https://github.com/chovy888484/trafficlights_motion/blob/9fac6ab81cd8f7c468206a7321c12452be0990a6/images/%E1%84%8B%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AB%E1%84%89%E1%85%A9%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B5.png"> |
+| 엄지만 핀 손(normal mode) | <img src="https://github.com/chovy888484/trafficlights_motion/blob/9fac6ab81cd8f7c468206a7321c12452be0990a6/images/%E1%84%8B%E1%85%A9%E1%84%85%E1%85%B3%E1%86%AB%E1%84%89%E1%85%A9%E1%86%AB%20%E1%84%8B%E1%85%A5%E1%86%B7%E1%84%8C%E1%85%B5.png"> |
 | 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
 
 3. **Web Serial API**  
