@@ -23,7 +23,7 @@
 
 등을 **직관적으로** 제어하기 위해 만들어졌습니다.
 
-[동영상 보러가기](https://www.youtube.com/watch?v=영상ID)
+[동영상 보러가기](https://youtu.be/ca_CeJCgSHU?si=M5z9FODCx8SvrRDT)
 
 
 ---
