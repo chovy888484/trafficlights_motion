@@ -119,14 +119,7 @@
 
 ## 파일 구조
 
-# my-traffic-light-project/
-# ├── Arduino/
-# │   └── ArduinoTrafficLight.ino
-# ├── web/
-# │   ├── index.html
-# │   ├── sketch.js
-# │   ├── p5.min.js
-# │   └── ml5.min.js
-# ├── README.md
-# └── LICENSE
+   # 
+   # ArduinoTrafficLight.ino 오픈
+   # 보드/포트 설정 → 업로드
 
