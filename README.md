@@ -47,7 +47,7 @@
 
 | 제스처 이름 | 이미지 |
 |-------------|--------|
-| 엄지만 핀 손(normal mode) | <img src="images/오른손 엄지.png"> |
+| 엄지만 핀 손(normal mode) | <img src="images/오른손 엄지.png"> |
 | 엄지+검지 | <img src="images/오른손 엄지 검지.png"> |
 | 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
 | 엄지+검지 | <img src="https://example.com/thumb_index.png" width="100"/> |
